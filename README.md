@@ -1,3 +1,3 @@
 ### Cześć👋
 Dzięki, że odwiedziłeś mojego GitHub.
-Niedługo mam zamiar upublicznić publiczne projekty 😀
+Niedługo mam zamiar opublikować publiczne projekty 😀
