@@ -2,5 +2,3 @@
 🔧 | Developer | 🔧
 
 🖥 Knowledge about: Git, MySQL, PHP, HTML, CSS, Linux, JavaScript, node.js, Laravel, Bootstrap
-
-🧑‍💻 Works for: [SAPCord](https://sapcord.pl?ref=github-jaczup)
