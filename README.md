@@ -17,8 +17,6 @@ Moje specjalizacje:
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - SpaceFun.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
-- Chezjusz
-   * Administracja i zarządzanie infrastrukturą techniczną serwera
 
 # Kontakt
 - Discord: [jaczup](https://discord.com/users/629342482588499969)
