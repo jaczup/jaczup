@@ -1,6 +1,6 @@
 # O mnie
 
-Jestem osobą z kilkuletnim doświadczeniem w zakresie IT. 
+Jestem osobą z kilkuletnim doświadczeniem w IT. 
 Moje specjalizacje:
 - Administracja i zarządzanie infrastrukturą techniczną serwerów,
 - Dyrektor ds. technologii, w tym kierownictwo działem IT; rozwój i nadzór nad infrastrukturą techniczną, z naciskiem na nowoście i optymalizacje technologiczne, 
