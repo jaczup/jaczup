@@ -20,5 +20,5 @@ Moje specjalizacje:
 
 # Kontakt
 - Discord: [jaczup](https://discord.com/users/629342482588499969)
-- Telefon: +48 22 247 23 30 (wew. 301) - aktualnie niedostępny
+- Telefon: +48 22 247 23 30 - dostępny
 - E-mail: [contact@jaczup.me](mailto:contact@jaczup.me)
