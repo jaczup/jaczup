@@ -20,5 +20,5 @@ Moje specjalizacje:
 
 # Kontakt
 - Discord: [jaczup](https://discord.com/users/629342482588499969)
-- Telefon: +48 22 247 23 30 - dostępny
+- Telefon: +48 22 247 23 30 - nr. wew. 810
 - E-mail: [jakub.piwnik@jaczup.pl](mailto:jakub.piwnik@jaczup.pl)
