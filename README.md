@@ -11,6 +11,9 @@ Moje specjalizacje:
    * Dyrektor ds. technologii Spółki
    * Administracja i zarządzanie infrastrukturą techniczną Spółki
    * Zarządzanie wybranymi projektami Spółki
+- Creeperek.pl
+   * Zarząd
+   * Administracja i zarządzanie infrastrukturą techniczną serwera
 - ClearMC.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - PolishBox.pl
