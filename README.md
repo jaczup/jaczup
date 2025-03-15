@@ -24,6 +24,8 @@ Moje specjalizacje:
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - SharpMC.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
+- HeartMC.pl
+   * Administracja i zarządzanie infrastrukturą techniczną serwera
 
 # Kontakt
 - Discord: [jaczup](https://discord.com/users/629342482588499969)
