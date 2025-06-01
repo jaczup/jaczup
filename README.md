@@ -25,9 +25,13 @@ Moje specjalizacje:
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - MisticHub.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
+- RoseMC.pl
+   * Administracja i zarządzanie infrastrukturą techniczną serwera
 - SharpMC.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - HeartMC.pl
+   * Administracja i zarządzanie infrastrukturą techniczną serwera
+- TurnMC.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 
 # Kontakt
