@@ -23,7 +23,7 @@ Moje specjalizacje:
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - WheelMC.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
-- RoseMC.pl
+- IntMC.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - SharpMC.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
