@@ -21,9 +21,7 @@ Moje specjalizacje:
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - PolishBox.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
-- SpaceFun.pl
-   * Administracja i zarządzanie infrastrukturą techniczną serwera
-- MisticHub.pl
+- WheelMC.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - RoseMC.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
