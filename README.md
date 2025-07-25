@@ -29,8 +29,6 @@ Moje specjalizacje:
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - HeartMC.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
-- TurnMC.pl
-   * Administracja i zarządzanie infrastrukturą techniczną serwera
 - FrytasHub.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 
