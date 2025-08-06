@@ -31,6 +31,10 @@ Moje specjalizacje:
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - FrytasHub.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
+- DonutMC.pl
+   * Administracja i zarządzanie infrastrukturą techniczną serwera
+- Bossiki.pl
+   * Administracja i zarządzanie infrastrukturą techniczną serwera
 
 # Kontakt
 - Discord: [jaczup](https://discord.com/users/629342482588499969)
