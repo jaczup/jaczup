@@ -11,9 +11,6 @@ Moje specjalizacje:
    * Dyrektor ds. technologii Spółki
    * Administracja i zarządzanie infrastrukturą techniczną Spółki
    * Zarządzanie wybranymi projektami Spółki
-- LOREMC.PL
-   * Zarząd
-   * Administracja i zarządzanie infrastrukturą techniczną serwera
 - Creeperek.pl
    * Zarząd
    * Administracja i zarządzanie infrastrukturą techniczną serwera
@@ -34,6 +31,8 @@ Moje specjalizacje:
 - DonutMC.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - Bossiki.pl
+   * Administracja i zarządzanie infrastrukturą techniczną serwera
+- LOREMC.PL
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 
 # Kontakt
