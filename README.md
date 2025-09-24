@@ -1,10 +1,8 @@
 # O mnie
-
-Jestem osobą z kilkuletnim doświadczeniem w IT. 
-Moje specjalizacje:
-- Administracja i zarządzanie infrastrukturą techniczną serwerów,
-- Dyrektor ds. technologii, w tym kierownictwo działem IT; rozwój i nadzór nad infrastrukturą techniczną, z naciskiem na nowoście i optymalizacje technologiczne, 
-- Programista w zakresie back-endu
+Jestem specjalistą IT z wieloletnim doświadczeniem w branży. Moje kluczowe kompetencje obejmują:
+- administrację oraz zarządzanie infrastrukturą serwerową,
+- pełnienie funkcji Dyrektora ds. technologii – kierowanie działem IT, rozwój i nadzór nad infrastrukturą techniczną, ze szczególnym uwzględnieniem innowacji i optymalizacji procesów,
+- programowanie w obszarze back-endu.
 
 # Praca
 - PIMIR
