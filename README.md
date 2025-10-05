@@ -16,7 +16,7 @@ Jestem specjalistą IT z wieloletnim doświadczeniem w branży. Moje kluczowe ko
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - PolishBox.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
-- WheelMC.pl
+- MisticHub.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - IntMC.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
