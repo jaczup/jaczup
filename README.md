@@ -32,6 +32,8 @@ Jestem specjalistą IT z wieloletnim doświadczeniem w branży. Moje kluczowe ko
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - LOREMC.PL
    * Administracja i zarządzanie infrastrukturą techniczną serwera
+- FezziMC.PL
+   * Administracja i zarządzanie infrastrukturą techniczną serwera
 
 # Kontakt
 - Discord: [jaczup](https://discord.com/users/629342482588499969)
