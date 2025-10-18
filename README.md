@@ -1,4 +1,4 @@
-# O mnie
+ # O mnie
 Jestem specjalistą IT z wieloletnim doświadczeniem w branży. Moje kluczowe kompetencje obejmują:
 - administrację oraz zarządzanie infrastrukturą serwerową,
 - pełnienie funkcji Dyrektora ds. technologii – kierowanie działem IT, rozwój i nadzór nad infrastrukturą techniczną, ze szczególnym uwzględnieniem innowacji i optymalizacji procesów,
@@ -16,17 +16,11 @@ Jestem specjalistą IT z wieloletnim doświadczeniem w branży. Moje kluczowe ko
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - PolishBox.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
-- MisticHub.pl
-   * Administracja i zarządzanie infrastrukturą techniczną serwera
-- IntMC.pl
-   * Administracja i zarządzanie infrastrukturą techniczną serwera
 - SharpMC.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - HeartMC.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - FrytasHub.pl
-   * Administracja i zarządzanie infrastrukturą techniczną serwera
-- DonutMC.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - Bossiki.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
