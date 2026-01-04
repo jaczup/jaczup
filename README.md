@@ -22,7 +22,7 @@ Jestem specjalistą IT z wieloletnim doświadczeniem w branży. Moje kluczowe ko
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - FrytasHub.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
-- Bossiki.pl
+- HypeStar.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - LOREMC.PL
    * Administracja i zarządzanie infrastrukturą techniczną serwera
