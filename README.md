@@ -18,15 +18,19 @@ Jestem specjalistą IT z wieloletnim doświadczeniem w branży. Moje kluczowe ko
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - SharpMC.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
-- HeartMC.pl
+- HeartMC.pl / WINSMP.NET
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - FrytasHub.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
-- HypeStar.pl
+- castpvp.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
-- LOREMC.PL
+- 22mc.pl
+   * Administracja i zarządzanie infrastrukturą techniczną serwera
+- LOREMC.PL / krytmc.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 - FezziMC.PL
+   * Administracja i zarządzanie infrastrukturą techniczną serwera
+- wampirmc.pl
    * Administracja i zarządzanie infrastrukturą techniczną serwera
 
 # Kontakt
